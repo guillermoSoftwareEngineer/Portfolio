@@ -211,13 +211,15 @@ nav{
   
   /* final carrusel */
 
+  
+
    /* inicio biografia */
      
    h1, h2, h3 {
     font-family: 'Montserrat', sans-serif; 
     color: #1A1A1A;
     text-align: center;
-    text-decoration: none;
+    text-decoration: none !important;
   }
 
 /* inicio eliminacion de linea inferior de titulos h1 y h3  */
@@ -228,6 +230,7 @@ nav{
 
   h2 a {
     text-decoration: none;
+
   }
 
   /* final eliminacion de linea inferior de titulos h1 y h3  */
